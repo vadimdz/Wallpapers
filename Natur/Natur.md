@@ -5,6 +5,7 @@
 <img width="2560" height="1440" alt="a_lake_surrounded_by_trees" src="https://github.com/user-attachments/assets/a9d4c5f8-3f0d-42e1-b636-b2c1abc4ab7f" />
 ---
 <img width="1920" height="1080" alt="a_house_in_the_woods" src="https://github.com/user-attachments/assets/a88c514d-050c-490c-bb5f-56dc0034f77c" />
+
 ---
 ![a_foggy_landscape_with_trees_and_grass](https://github.com/user-attachments/assets/b64dfea2-dda7-4ed0-9307-05f57919c86e)
 ---
