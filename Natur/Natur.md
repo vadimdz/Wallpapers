@@ -6,8 +6,6 @@
 ---
 <img width="1920" height="1080" alt="a_house_in_the_woods" src="https://github.com/user-attachments/assets/a88c514d-050c-490c-bb5f-56dc0034f77c" />
 ---
-![a_forest_of_trees_with_fog](https://github.com/user-attachments/assets/62810407-1b8c-409e-b239-b3028fa6f5eb)
----
 ![a_foggy_landscape_with_trees_and_grass](https://github.com/user-attachments/assets/b64dfea2-dda7-4ed0-9307-05f57919c86e)
 ---
 ![a_close_up_of_a_plant](https://github.com/user-attachments/assets/b0d802c5-1692-4c68-a149-736b9cd60c65)
