@@ -8,8 +8,6 @@
 ---
 ![a_mountain_with_snow_on_it](https://github.com/user-attachments/assets/b524806b-204b-4bf9-831e-90ed1553b49e)
 ---
-<img width="3840" height="2160" alt="a_river_running_through_a_valley" src="https://github.com/user-attachments/assets/a0a5edb3-f0fd-4aff-bd6c-1c6890377d3e" />
----
 ![a_snow_covered_mountain_top](https://github.com/user-attachments/assets/549ad6b7-97a9-49a1-a7b2-34f3633ee9b4)
 ---
 ![a_iceberg_in_the_water_with_mountains_in_the_background](https://github.com/user-attachments/assets/c56c4e26-6281-4a68-990c-909daa02b49b)
