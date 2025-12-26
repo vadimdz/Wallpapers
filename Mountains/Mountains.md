@@ -1,4 +1,4 @@
-# Mountains
+# Mountains ⛰️
 
 ![a_snowy_mountain_with_dark_clouds](https://github.com/user-attachments/assets/c09dff1b-40d9-49c1-b261-6510c6372345)
 ---
