@@ -18,3 +18,5 @@
 ![a_beach_with_waves_and_rocks](https://github.com/user-attachments/assets/55cc7419-8784-48e2-a81f-2dcc170a1efd)
 ---
 ![a_beach_with_waves_and_cliffs](https://github.com/user-attachments/assets/e7effa15-e8d5-4960-b930-4589f53fc502)
+---
+![a_forest_of_trees_with_fog](https://github.com/user-attachments/assets/837168a5-3d80-4b20-bff0-7a60a40a5d9c)
